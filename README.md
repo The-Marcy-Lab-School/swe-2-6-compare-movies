@@ -142,8 +142,8 @@ const barConfig = {
     plugins: {
       tooltip: {
         callbacks: {
-          label: (data) => {
-            return 'new label based on data'
+          label: (context) => {
+            return 'new label based on context data'
           }
         }
       }
