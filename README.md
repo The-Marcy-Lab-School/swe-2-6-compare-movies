@@ -1,5 +1,4 @@
-# 2.3.0 - Solo Project: Compare Movies (with Chart.js)
-- [2.3.0 - Solo Project: Compare Movies (with Chart.js)](#230---solo-project-compare-movies-with-chartjs)
+Solo Project: Compare Movies (with Chart.js)
 - [Project Description](#project-description)
   - [Part 1: DOM Manipulation (movies and the form)](#part-1-dom-manipulation-movies-and-the-form)
   - [Part 2: Chart.js](#part-2-chartjs)
